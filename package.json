@@ -1,0 +1,20 @@
+{
+  "name": "generator-read.me",
+  "version": "1.0.0",
+  "description": "Nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Inquirer",
+    "CLI",
+    "app"
+  ],
+  "author": "Mehrnaz Kiani",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
