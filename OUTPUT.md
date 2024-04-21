@@ -1,12 +1,12 @@
 
 
 # Title : 
-S{data.title}
+readme generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ##  Description:
 
-undefined
+test
     
 
 ### Table Of Contents:
@@ -28,7 +28,7 @@ manual
 
 ### contribution
 
-this project does not take any contribution,
+this project does not take contribution
 
 ### usage
 
@@ -38,7 +38,7 @@ free
 
 Please check my other projects at
 
-[Github Profile](https://github.com/'free')
+[Github Profile](https://github.com/free)
 
 ### email
 
