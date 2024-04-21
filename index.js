@@ -1,5 +1,6 @@
 const inquirer = require("inquirer")
-
+const fs = require("fs")
+const generateMarkdown = require("./lib/generateMarkdown")
 inquirer.prompt([
     {
         type:"input",
@@ -49,4 +50,8 @@ inquirer.prompt([
     },
 ]).then(response =>{
     console.log(response);
+    fs.writeFileSync("OUTPUT.md",generateMarkdown(response),function(err){
+        if(err) console.log(err)
+    })
 })
+
