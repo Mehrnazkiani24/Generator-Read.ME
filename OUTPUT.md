@@ -38,12 +38,12 @@ free
 
 Please check my other projects at
 
-[Github Profile](https://github.com/free)
+[Github Profile](https://github.com/mehrnazkiani24)
 
 ### email
 
 If you have any questions regarding this project please reach me at
-test
+mehrnaz03@yahoo.com
 
 ### license
 
